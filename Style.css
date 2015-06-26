@@ -1,0 +1,15 @@
+input.ng-dirty.ng-invalid{
+    background-color: palevioletred;
+}
+input.ng-dirty.ng-valid{
+    background-color: rgba(172,172,172,0.5);
+}
+.movie.selected{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(172,172,172,0.5);
+    color:White;
+}
+
+
+
